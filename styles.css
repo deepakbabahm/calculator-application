@@ -7,7 +7,7 @@
 body {
   padding: 0;
   margin: 0;
-  background: linear-gradient(to right, #00AAFF, #00FF6C);
+  background: linear-gradient(to right, #1e6840, #b61d5d);
 }
 
 .calculator-grid {
@@ -28,7 +28,7 @@ body {
 }
 
 .calculator-grid > button:hover {
-  background-color: rgba(255, 255, 255, .9);
+  background-color: rgba(113, 4, 4, 0.9);
 }
 
 .span-two {
